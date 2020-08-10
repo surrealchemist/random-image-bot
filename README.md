@@ -3,9 +3,13 @@ This is a witter bot written to be used in AWS.
 You will need to create a twitter developer account to get an API Key pair, then create a new Access Token pair with read/write permissions and set the environment variables.
 
 **BUCKET_NAME** the source bucket where the images reside
+
 **APP_KEY** Twitter API Key
+
 **APP_SECRET** Twitter API secret
+
 **OAUTH_TOKEN** Access Token with read/write permissions
+
 **OAUTH_TOKEN_SECRET** Access Secret with read/write permissions
 
 
